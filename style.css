@@ -20,10 +20,12 @@ body {
 
 /*********** Hero Section ***********/
 
-.insidediv {
-  margin: auto;
+.center {
+  margin: 0 auto; 
 }
-
+.insidediv {
+  text-align: center;
+}
 /*********** Fonts ***********/
 
 h1 {
