@@ -1,0 +1,222 @@
+/*********** Import Fonts ***********/
+
+@import url('https://fonts.googleapis.com/css2?family=Coming+Soon&family=Montserrat&display=swap');
+
+/*********** Background Image ***********/
+
+body {
+  background-image: url("images/Group_262.png");
+}
+
+/*********** Background Container ***********/
+
+.outsidediv {
+  background-color: white ;
+  border: solid 1px  black ;
+  width: 85%;
+  margin: 100px auto ;
+  padding: 25px;
+}
+
+/*********** Hero Section ***********/
+
+.insidediv {
+  margin: auto;
+}
+
+/*********** Fonts ***********/
+
+h1 {
+  font-family: 'Coming Soon', sans-serif;
+  font-size: 24px;
+}
+
+h6 {
+  font-family: 'Coming Soon', sans-serif;
+  font-size: 18px ;
+  margin: 0;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+}
+
+/*********** Header ***********/
+
+header ul {
+  float: right;
+  color: black;
+  margin: 0;
+}
+
+header li {
+  display: inline-block;
+  padding: 0px 5px;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+}
+
+header {
+  display: inline;
+  margin: 0;
+  padding: 5px;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/*********** Link Styles ***********/
+
+a {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+  text-decoration: underline;
+  color: blue;
+}
+
+a#logo {
+  color: #000;
+  text-decoration: none;
+}
+
+/*********** Footer ***********/
+
+div.contact-links ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+div.contact-links ul li {
+  display: inline;
+}
+
+div.contact-links ul li a {
+  text-decoration: none;
+}
+
+footer div.flex-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/*********** Home Page Case Studies ***********/
+
+div.flex-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.item-left img,
+.item-right img {
+  max-width: 40vw;
+}
+
+div.item-left,
+div.item-right {
+  padding: 15px 15px;
+}
+
+/*********** Decorative Element - Zig Zag ***********/
+
+div.display-block {
+  display: inline-block;
+  width: 100%;
+  height: 10px;
+}
+
+.float-right {
+  float: right;
+  position: relative;
+  margin-top: -100px;
+  left: 75px;
+}
+
+.float-left {
+  float: left;
+  position: relative;
+  right: 75px;
+}
+
+/*********** Import Fonts ***********/
+
+@import url('https://fonts.googleapis.com/css2?family=Coming+Soon&family=Montserrat&display=swap');
+
+/*********** Background Image ***********/
+
+body {
+  background-image: url("images/Group_262.png");
+}
+
+/*********** Background Container ***********/
+
+.outsidediv {
+  background-color: white ;
+  border: solid 1px  black ;
+  width: 85%;
+  margin: 100px auto ;
+  padding: 25px;
+}
+/*********** Fonts ***********/
+
+h1 {
+  font-family: 'Coming Soon', sans-serif;
+  font-size: 24px;
+}
+
+h6 {
+  font-family: 'Coming Soon', sans-serif;
+  font-size: 18px ;
+  margin: 0;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+}
+/*********** Header ***********/
+
+header ul {
+  float: right;
+  color: black;
+  margin: 0;
+}
+
+header li {
+  display: inline-block;
+  padding: 0px 5px;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+}
+
+header {
+  display: inline;
+  margin: 0;
+  padding: 5px;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+/*********** Link Styles ***********/
+
+a {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+  text-decoration: underline;
+  color: blue;
+}
+
+a#logo {
+  color: #000;
+  text-decoration: none;
+}
