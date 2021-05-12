@@ -100,6 +100,9 @@ div.contact-links ul li {
 div.contact-links ul li a {
   text-decoration: none;
 }
+.contact-links {
+  display: inline;
+}
 
 footer div.flex-container {
   display: flex;
