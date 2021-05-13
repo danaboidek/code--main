@@ -89,6 +89,7 @@ a#logo {
 /*********** Footer ***********/
 
 div.contact-links ul {
+
   list-style-type: none;
   padding: 0;
 }
@@ -101,7 +102,7 @@ div.contact-links ul li a {
   text-decoration: none;
 }
 .contact-links {
-  display: inline;
+  display: flex;
 }
 
 footer div.flex-container {
