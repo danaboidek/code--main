@@ -255,6 +255,22 @@ position: relative;
   width: 100%;
   height: 364px;
   opacity: 0;
+  transition: all 1s ease; 
+
+
+}
+
+.gridBgg {
+  background-image: url("images/casestudygrid.png");
+  background-size: cover;
+  position: absolute;
+  top: 65px;
+  left:2000px;
+  z-index:1px ;
+  width: 100%;
+  height: 364px;
+  opacity: 0;
+  transition: all 1s ease; 
 
 
 }
@@ -269,5 +285,6 @@ position: relative;
   width: 100%;
   height: 334px;
   opacity: 0;
+  transition: all 1s ease; 
 
 }
