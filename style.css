@@ -11,7 +11,7 @@ body {
 /*********** Background Container ***********/
 
 .outsidediv {
-  background-color: white ;
+  background-color:#f8f8f8 ;
   border: solid 1px  black ;
   width: 85%;
   margin: 100px auto ;
