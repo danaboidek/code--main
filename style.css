@@ -18,6 +18,25 @@ body {
   padding: 25px;
 }
 
+.outsidediv1 {
+  background-color:#f8f8f8 ;
+  border: solid 1px  black ;
+  width: 85%;
+  margin: 100px auto ;
+  padding: 25px;
+
+}
+
+.navbar-brand {
+  font-family: 'Coming Soon', sans-serif;
+  font-size: 24px;
+
+}
+
+.nav-link {
+  font-family: 'Coming Soon', sans-serif;
+  font-size: 20px;
+}
 /*********** Hero Section ***********/
 
 .center {
@@ -288,3 +307,9 @@ position: relative;
   transition: all 1s ease; 
 
 }
+
+.navbar-nav {
+  margin-left: auto;
+  margin-right: 0, !important;
+}
+
