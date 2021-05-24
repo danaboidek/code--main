@@ -18,6 +18,13 @@ body {
   padding: 25px;
 }
 
+.outsidediv3 {
+  background-color:#f8f8f8 ;
+  border: solid 1px  black ;
+  width: 85%;
+  margin: 100px auto ;
+  padding: 25px;
+}
 .outsidediv1 {
   background-color:#f8f8f8 ;
   border: solid 1px  black ;
