@@ -71,7 +71,9 @@ h3 {
   font-size: 18px;
   color: black;
 
-
+.usda {
+  vertical-align: middle
+}
 
 }
 h6 {
@@ -328,3 +330,7 @@ position: relative;
   margin-right: 0, !important;
 }
 
+.item5 {
+  position: absolute;
+  right: 130px; 
+}
