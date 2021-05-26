@@ -69,12 +69,19 @@ h2 {
 h3 {
   font-family: 'Coming Soon', sans-serif;
   font-size: 18px;
+  text-decoration: underline;
   color: black;
 }
 .usda {
-  vertical-align: middle
+  text-align: center text horizontally; 
 }
 
+.quate {
+  font-family: 'Coming Soon', sans-serif;
+  font-size: 18px;
+  color: #d833db;
+
+}
 
 h6 {
   font-family: 'Coming Soon', sans-serif;
