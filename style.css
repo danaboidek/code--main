@@ -365,3 +365,7 @@ position: relative;
   opacity: 0;
   transition: all 1s ease; 
 }
+
+.item-left{
+  padding: 20px;
+}

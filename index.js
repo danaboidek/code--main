@@ -33,6 +33,7 @@ var waypoint = new Waypoint({
 
   });
 
+//  case study animation
 
   var waypoint = new Waypoint({
     element: document.getElementById('progressbar'),
