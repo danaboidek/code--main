@@ -350,5 +350,18 @@ position: relative;
 
 .outsidediv3 {
   width: 100%;
-  
+
+}
+
+.pink{
+  background-image: url("images/pinkline.jpg");
+  background-size: cover;
+  position: absolute;
+  top: 42px;
+  left: -150% ;
+  z-index:1px ;
+  width: 100%;
+  height: 334px;
+  opacity: 0;
+  transition: all 1s ease; 
 }

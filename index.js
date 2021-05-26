@@ -32,3 +32,13 @@ var waypoint = new Waypoint({
     offset: 300 
 
   });
+
+
+  var waypoint = new Waypoint({
+    element: document.getElementById('progressbar'),
+    handler: function(direction) {
+     $(".pink").css("left" , "0").css("opacity" , "1");
+    },
+    offset: 300 
+
+  });
