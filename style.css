@@ -81,6 +81,7 @@ h3 {
   font-size: 18px;
   text-decoration: underline;
   color: black;
+  padding: 10px;
 }
 
 
@@ -383,4 +384,12 @@ position: relative;
 
 .padding {
   padding: 3px;
+}
+
+.padding2 {
+  padding: 22px;
+}
+
+.padding3 {
+  padding: 10px;
 }
