@@ -64,6 +64,8 @@ h2 {
   font-family: 'Coming Soon', sans-serif;
   font-size: 24px;
   color: #d833db;
+  padding: 5px;
+  
 
 
 }
@@ -369,3 +371,13 @@ position: relative;
 .item-left{
   padding: 20px;
 }
+
+
+.item-right{
+  padding: 20px;
+}
+
+.rounded {
+  padding: 20px;
+}
+
