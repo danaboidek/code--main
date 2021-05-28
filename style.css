@@ -395,13 +395,6 @@ position: relative;
 }
 
 
-#wrapper {
-position: relative; 
-}
-
-#first {
-
-}
 
 #second {
   display: flex;
@@ -411,4 +404,6 @@ position: relative;
 
 .outsidediv3 {
   position: relative;
+  display: flex;
+  
 }
