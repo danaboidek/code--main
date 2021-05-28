@@ -405,5 +405,5 @@ position: relative;
 .outsidediv3 {
   position: relative;
   display: flex;
-  
+  margin: 100px auto 0 auto; 
 }
